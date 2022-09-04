@@ -6,3 +6,4 @@ requests
 IPython
 torch
 joblib
+sklearn
