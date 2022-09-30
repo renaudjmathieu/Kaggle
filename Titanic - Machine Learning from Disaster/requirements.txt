@@ -3,3 +3,6 @@ pandas
 matplotlib
 seaborn
 sklearn
+tensorflow-metal
+tensorflow-macos==2.9.0
+keras==2.9.0
