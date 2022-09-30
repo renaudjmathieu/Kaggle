@@ -3,7 +3,7 @@ pandas
 matplotlib
 seaborn
 sklearn
-protobuf==3.20.1
+protobuf
 tensorflow-metal
 tensorflow-macos
 keras
