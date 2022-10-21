@@ -2,5 +2,7 @@ numpy
 pandas
 matplotlib
 seaborn
+pyarrow
 sklearn
 xgboost
+tensorflow-macos
