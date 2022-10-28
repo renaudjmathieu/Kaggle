@@ -13,6 +13,7 @@ Blahblahblah
     python -m pip install --upgrade pip setuptools wheel
     pip uninstall -r requirements.txt -y
     pip install -r requirements.txt
+    tensorboard --logdir=./my_logs --port=6006
     ```
 
 ## :scroll: Create and run stuff
