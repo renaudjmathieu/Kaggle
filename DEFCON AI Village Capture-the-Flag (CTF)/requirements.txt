@@ -7,5 +7,3 @@ IPython
 torch
 joblib
 sklearn
-tensorflow-macos
-keras
