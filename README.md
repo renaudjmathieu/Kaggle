@@ -7,8 +7,13 @@
 - Open the Visual Studio Code console and run these commands inside the terminal window to create new env and activate it and install packages : 
     ```	
     cd "Project"
-    python3 -m venv venv
-    ./venv/bin/Activate.ps1
+
+    python3 -m venv .venv    
+    virtualenv --python="/usr/local/bin/python3.10" .venv
+
+    source .venv/bin/activate
+    .venv/bin/Activate.ps1   
+
     pip install --upgrade pip
     pip uninstall -r requirements.txt -y
     pip install -r requirements.txt
