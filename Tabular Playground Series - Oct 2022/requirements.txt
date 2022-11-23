@@ -2,6 +2,6 @@ numpy
 pandas
 matplotlib
 seaborn
-protobuf==3.19.4 
+protobuf==3.19.5 
 tensorflow-metal
 tensorflow-macos==2.10.0
