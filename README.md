@@ -8,11 +8,11 @@
     ```	
     cd "Project"
 
-    python3 -m venv .venv    
+    python3 -m venv .venv
     virtualenv --python="/usr/local/bin/python3.10" .venv
 
     source .venv/bin/activate
-    .venv/bin/Activate.ps1   
+    .venv/bin/Activate.ps1
 
     pip install --upgrade pip
     pip uninstall -r requirements.txt -y
