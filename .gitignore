@@ -1,4 +1,6 @@
 .venv
+.DS_Store
 CNN from scratch/.DS_Store
 GAN from scratch/.DS_Store
 Transformer from scratch/.DS_Store
+VAE from scratch/.DS_Store
