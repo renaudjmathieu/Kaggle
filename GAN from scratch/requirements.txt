@@ -1,0 +1,6 @@
+numpy
+pandas
+matplotlib
+tensorflow-metal==0.5.0
+tensorflow-macos==2.9.0
+keras==2.9.0
